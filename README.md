@@ -1,6 +1,6 @@
 # GenP_Git
 git clone https://github.com/JiyaVe/GenP_task2.git
-git clone https://github.com/your-username/GenP_Git.git
+git clone https://github.com/khushi19k/GenP_Git.git
 cd GenP_Git
 cp -r ../GenP_task2/* .
 git checkout -b Task
